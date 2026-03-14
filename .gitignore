@@ -1,5 +1,6 @@
 .env
 /install
+node_modules
 
 *.md
 !README.md
