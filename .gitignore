@@ -1,2 +1,5 @@
-.md
 .env
+/install
+
+*.md
+!README.md
