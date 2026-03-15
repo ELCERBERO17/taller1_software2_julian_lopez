@@ -1,6 +1,9 @@
 # taller1_software2_julian_lopez
 
-# versions: apps and dependences
+Sistema de ventas con microservicios (Gateway Laravel, Flask+Firebase, Express+MongoDB).
+
+## Versiones
+
 - Python: 3.13.7
 - Laravel: 12.x
 - Composer: 2.9.5
